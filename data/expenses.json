@@ -3,7 +3,7 @@
     "id": "yourrights",
     "name": "YourRights"
   },
-  "generated_at": "2026-11-09T14:39:19Z",
+  "generated_at": "2026-11-09T19:40:54Z",
   "expenses": [
     {
       "id": "2671f436319443997a24f6ddd0d94cac0538f28d21f33c50bce87362f0ef1fdb",
@@ -171,7 +171,7 @@
       "id": "7a7081d31aba23f34ceb1037b195b571aeb0a7f2951449c906eb1d5b87a40e92",
       "date": "2026-10-20",
       "merchant": "Green API",
-      "merchant_raw": "PayPro Global",
+      "merchant_raw": "Green API",
       "reference": "44840500",
       "amount": 12.0,
       "currency": "USD",
