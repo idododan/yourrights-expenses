@@ -3,7 +3,7 @@
     "id": "yourrights",
     "name": "YourRights"
   },
-  "generated_at": "2026-11-12T11:31:19Z",
+  "generated_at": "2026-11-12T11:42:49Z",
   "expenses": [
     {
       "id": "2671f436319443997a24f6ddd0d94cac0538f28d21f33c50bce87362f0ef1fdb",
@@ -325,6 +325,26 @@
       "file": null,
       "project": "yourrights",
       "shared": true,
+      "receipt_total": null
+    },
+    {
+      "id": "d4c184e977d41a9bb305d75824012c231029aa5c5c4c96b347176fb1b859c8c4",
+      "date": "2026-11-10",
+      "merchant": "Green API",
+      "merchant_raw": "Green API",
+      "reference": null,
+      "amount": 12.0,
+      "currency": "USD",
+      "status": "ok",
+      "source": "photo",
+      "inbox": null,
+      "sender": null,
+      "subject": null,
+      "label": null,
+      "also_seen_in": [],
+      "file": "PayPro Global Invoice 45121558 (2026-Nov-10).pdf",
+      "project": "yourrights",
+      "shared": false,
       "receipt_total": null
     }
   ]
