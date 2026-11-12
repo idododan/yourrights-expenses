@@ -3,7 +3,7 @@
     "id": "yourrights",
     "name": "YourRights"
   },
-  "generated_at": "2026-11-12T11:42:49Z",
+  "generated_at": "2026-11-12T11:53:23Z",
   "expenses": [
     {
       "id": "2671f436319443997a24f6ddd0d94cac0538f28d21f33c50bce87362f0ef1fdb",
@@ -43,26 +43,6 @@
       "file": null,
       "project": "yourrights",
       "shared": true,
-      "receipt_total": null
-    },
-    {
-      "id": "0a167c57aace8c9c6e361565bfe5f878897ede1eb9f3876dc9267c3aa3d0331c",
-      "date": "2026-09-22",
-      "merchant": "Green API",
-      "merchant_raw": "GREEN-API",
-      "reference": null,
-      "amount": null,
-      "currency": null,
-      "status": "needs_parsing",
-      "source": "gmail",
-      "inbox": "pdc",
-      "sender": "green-api.com",
-      "subject": "Electronic receipt",
-      "label": "Receipts",
-      "also_seen_in": [],
-      "file": null,
-      "project": "yourrights",
-      "shared": false,
       "receipt_total": null
     },
     {
