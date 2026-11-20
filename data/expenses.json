@@ -3,7 +3,7 @@
     "id": "yourrights",
     "name": "YourRights"
   },
-  "generated_at": "2026-11-12T11:53:23Z",
+  "generated_at": "2026-11-20T09:25:23Z",
   "expenses": [
     {
       "id": "2671f436319443997a24f6ddd0d94cac0538f28d21f33c50bce87362f0ef1fdb",
@@ -326,6 +326,26 @@
       "project": "yourrights",
       "shared": false,
       "receipt_total": null
+    },
+    {
+      "id": "65260e2c3e4eb49429e7a5bba14e1464049b3665715e93986db170c39e087237",
+      "date": "2026-11-19",
+      "merchant": "019 Mobile",
+      "merchant_raw": "019mobile.co.il",
+      "reference": null,
+      "amount": 10.0,
+      "currency": "ILS",
+      "status": "ok",
+      "source": "gmail",
+      "inbox": "gmail",
+      "sender": "019mobile.co.il",
+      "subject": "החשבונית שלך מ 019",
+      "label": "Receipts",
+      "also_seen_in": [],
+      "file": null,
+      "project": "yourrights",
+      "shared": false,
+      "receipt_total": 79.7
     }
   ]
 }
